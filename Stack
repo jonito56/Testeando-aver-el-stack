@@ -1,0 +1,38 @@
+TDS Tower Logs Export
+Generated: 2026-01-02 08:30:45
+
+TDS:Place("Scout", -14.52979, 2.34999, -8.88132) -- 1
+TDS:Place("Scout", -16.69415, 3.35403, 22.41648) -- 2
+TDS:Place("Scout", -12.99760, 3.21619, 22.47703) -- 3
+TDS:Upgrade(1)
+TDS:Upgrade(3)
+TDS:Upgrade(2)
+TDS:Upgrade(1)
+TDS:Upgrade(3)
+TDS:Upgrade(2)
+TDS:Place("Scout", -10.60135, 3.35403, 22.53125) -- 4
+TDS:Upgrade(4)
+TDS:Upgrade(4)
+TDS:Place("Scout", -7.47189, 3.35403, 22.66668) -- 5
+TDS:Upgrade(5)
+TDS:Upgrade(5)
+TDS:Place("Scout", -4.39163, 3.35405, 22.89670) -- 6
+TDS:Upgrade(6)
+TDS:Upgrade(6)
+TDS:Place("Scout", -0.61056, 3.21621, 23.28053) -- 7
+TDS:Upgrade(7)
+TDS:Upgrade(7)
+TDS:Place("Scout", 2.61631, 3.21621, 23.26085) -- 8
+TDS:Upgrade(8)
+TDS:Upgrade(8)
+TDS:Place("Hacker", -11.47989, 2.27511, -8.79919) -- 9
+TDS:Upgrade(9)
+TDS:Upgrade(9)
+TDS:Upgrade(1)
+TDS:Upgrade(2)
+TDS:Upgrade(3)
+TDS:Upgrade(4)
+TDS:Upgrade(5)
+TDS:Upgrade(6)
+TDS:Upgrade(7)
+TDS:Upgrade(8)
